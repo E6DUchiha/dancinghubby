@@ -2,4 +2,4 @@
 
 A small birthday project for my beloved boyfriend.
 
-https://nhunimuni.github.io/dancinghubby/
+ https://e6duchiha.github.io/dancinghubby/
